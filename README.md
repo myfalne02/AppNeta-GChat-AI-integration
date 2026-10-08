@@ -2,8 +2,6 @@
 
 A Cloud Run function that turns AppNeta alarms into Google Chat cards with an AI-generated root cause and two recommended actions. Raise and clear events for the same alarm share one Chat thread.
 
-Companion code for the blog post [Send AppNeta Network Alerts to Google Chat with Gemini AI Summaries](<BLOG_URL>).
-
 > [!IMPORTANT]
 > This is a personal sample provided "as is", without warranty of any kind. It is not an official product, is not supported and may not be updated. Review and test it before any production use. Google Cloud costs are your responsibility.
 
