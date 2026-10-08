@@ -1,0 +1,11 @@
+{
+  "name": "Google Chat AI Bridge",
+  "type": "WEBHOOK",
+  "orgId": "<APPNETA_ORG_ID>",
+  "enabled": true,
+  "url": "<CLOUD_RUN_FUNCTION_URL>",
+  "headers": {
+    "X-AppNeta-Token": "<WEBHOOK_SECRET>"
+  },
+  "severities": ["CRITICAL", "MAJOR"]
+}
